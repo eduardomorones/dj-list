@@ -1,0 +1,7 @@
+{
+  "name": "DJ Set Manager - Dancer Edition",
+  "description": "Una aplicación diseñada para que DJs gestionen las listas de reproducción de bailarinas, permitiendo que cada una suba sus sets de canciones desde su móvil y el DJ los visualice en tiempo real.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
